@@ -1,0 +1,20 @@
+name: reveal
+author: Unknown
+category: Reverse Engineering
+description: |-
+  Guess the flag, huh?
+  Find the correct input!
+
+  Author: Daicy
+value: 489
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 100
+flags:
+- CTF{placeholder_flag_ganti_manual}
+files:
+- dist/chall
+state: visible
+version: '0.1'

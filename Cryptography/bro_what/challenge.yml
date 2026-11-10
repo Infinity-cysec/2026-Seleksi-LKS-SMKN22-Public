@@ -1,0 +1,21 @@
+name: bro what
+author: Unknown
+category: Cryptography
+description: |-
+  My friend sent me this message but i have no idea what it is!? He told me that the keyboard was shifted while typing. Could you help me figure it out?
+
+  **Wrap the flag with SMKN22{FLAG}. The text inside the curly braces should be all CAPSLOCK**
+value: 372
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 100
+flags:
+- CTF{placeholder_flag_ganti_manual}
+tags:
+- easy
+files:
+- dist/message.txt
+state: visible
+version: '0.1'

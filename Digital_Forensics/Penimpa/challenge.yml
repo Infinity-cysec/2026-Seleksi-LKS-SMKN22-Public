@@ -1,0 +1,22 @@
+name: Penimpa
+author: Unknown
+category: Digital Forensics
+description: |-
+  Seseorang penimpa teks sungguh menyebalkan! Akhir-akhir ini mereka telah menyembunyikan sebuah file rahasia di balik foto Mas Wapres. Konon, file tersebut menyimpan informasi yang tidak boleh diketahui sembarang orang.
+
+  Tugas kalian adalah menemukan dan mengekstrak file rahasia yang tersembunyi di dalam foto itu.... Jika membutuhkan password untuk membukanya, ingatlah satu kata yang belakangan ini sering diucapkan oleh Mas Wapres.
+
+  **Author:** Kaguai10
+  Selamat berburu flag!
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 100
+flags:
+- CTF{placeholder_flag_ganti_manual}
+files:
+- dist/mas-wapres.jpg
+state: visible
+version: '0.1'

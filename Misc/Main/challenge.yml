@@ -1,0 +1,21 @@
+name: Main
+author: Unknown
+category: Misc
+description: |-
+  Admin lagi agak mager bikin soal nih, jadi kali ini kalian main game aja yaaa! 😆
+
+  Sekalian cobain game buatan admin. Maklum, admin masih junior dan masih belajar, jadi kalau gamenya agak kurang bagus, mohon dimaklumi yaaa. Yang penting jangan lupa satu hal: misi kalian belum selesai sebelum berhasil mendapatkan flag!
+
+  Selamat bermain, Agents! Semangat dan good luck! 🚀
+
+  *format flag sesuaikan SMKN22{}
+
+  **Author:** Kaguai10
+value: 100
+type: standard
+flags:
+- CTF{placeholder_flag_ganti_manual}
+files:
+- dist/main.exe
+state: visible
+version: '0.1'

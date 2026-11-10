@@ -1,0 +1,21 @@
+name: spin
+author: Unknown
+category: Reverse Engineering
+description: |-
+  Spinning spinningggg~
+
+  wait.. is that a jojo reference?
+
+  Author: Daicy
+value: 152
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 100
+flags:
+- CTF{placeholder_flag_ganti_manual}
+files:
+- dist/chall
+state: visible
+version: '0.1'

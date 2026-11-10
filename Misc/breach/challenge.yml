@@ -1,0 +1,19 @@
+name: breach
+author: Unknown
+category: Misc
+description: |-
+  We suspect our employee stole all of the company's BTC. After tracking our employee, we don't find any useful information.
+  We only found this hash:
+  c6ab9df1dd9b35f0f5dc16bb23c1a0273f80a7efb0a64264c2fda235dd29ff2a
+
+  Could you find the address where the BTC is transferred?
+
+  **NOTE: if you found "114Wg8bgUuGZ8", the flag would be SMKN22{114Wg8bgUuGZ8} **
+
+  Author: Daicy
+value: 100
+type: standard
+flags:
+- CTF{placeholder_flag_ganti_manual}
+state: visible
+version: '0.1'

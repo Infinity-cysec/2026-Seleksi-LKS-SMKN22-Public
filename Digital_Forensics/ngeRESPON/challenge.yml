@@ -1,0 +1,23 @@
+name: ngeRESPON
+author: Unknown
+category: Digital Forensics
+description: |-
+  PT Hitam Maju Berkarya mendeteksi aktivitas jaringan mencurigakan yang berasal dari salah satu komputer di divisi Finance & Accounting.
+  Tim IT Security menemukan indikasi bahwa komputer tersebut telah terinfeksi malware dan diam-diam berkomunikasi dengan server eksternal. Lebih mengkhawatirkan lagi, terdapat dugaan kebocoran dokumen keuangan perusahaan melalui aktivitas jaringan yang tidak biasa.
+  Untuk mengungkap kejadian tersebut, tim IT telah mengumpulkan lalu lintas jaringan dalam sebuah file PCAP.
+
+  Author:
+  STARRR
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 100
+connection_info: nc 103.236.140.19 1337
+flags:
+- CTF{placeholder_flag_ganti_manual}
+files:
+- dist/challenge.pcap
+state: visible
+version: '0.1'

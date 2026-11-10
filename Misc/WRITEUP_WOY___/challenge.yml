@@ -1,0 +1,13 @@
+name: WRITEUP WOY!!!
+author: Unknown
+category: Misc
+description: |-
+  ini linknya teman :)
+
+  [https://forms.gle/QeCGDBtUFh2EYhg8A](https://forms.gle/QeCGDBtUFh2EYhg8A)
+value: 0
+type: standard
+flags:
+- CTF{placeholder_flag_ganti_manual}
+state: visible
+version: '0.1'

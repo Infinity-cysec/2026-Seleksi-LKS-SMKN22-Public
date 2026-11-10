@@ -1,0 +1,22 @@
+name: 40ft pineapple
+author: Unknown
+category: Cryptography
+description: |-
+  this hawaiian is absolutely incredible how did you make this?
+
+  Author: Daicy
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 30
+  minimum: 100
+flags:
+- CTF{placeholder_flag_ganti_manual}
+tags:
+- medium
+files:
+- dist/chall.py
+- dist/flag.png.enc
+state: visible
+version: '0.1'
