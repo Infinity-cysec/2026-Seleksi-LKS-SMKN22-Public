@@ -1,5 +1,4 @@
 name: breach
-author: Unknown
 category: Misc
 description: |-
   We suspect our employee stole all of the company's BTC. After tracking our employee, we don't find any useful information.
@@ -11,9 +10,12 @@ description: |-
   **NOTE: if you found "114Wg8bgUuGZ8", the flag would be SMKN22{114Wg8bgUuGZ8} **
 
   Author: Daicy
+  
 value: 100
 type: standard
+
 flags:
-- CTF{placeholder_flag_ganti_manual}
+  - SMKN22{1PedixBEkHdowXfn2hgwu8h64jAa3sNNr2}
+  
 state: visible
 version: '0.1'
