@@ -1,5 +1,4 @@
 name: Main
-author: Unknown
 category: Misc
 description: |-
   Admin lagi agak mager bikin soal nih, jadi kali ini kalian main game aja yaaa! 😆
@@ -10,12 +9,16 @@ description: |-
 
   *format flag sesuaikan SMKN22{}
 
-  **Author:** Kaguai10
+  Author: Kaguai10
+  
 value: 100
 type: standard
+
 flags:
-- CTF{placeholder_flag_ganti_manual}
+  - SMKN22{ctf_s4mb1l_ng3-gam3_GG}
+  
 files:
-- dist/main.exe
+  - dist/main.exe
+  
 state: visible
 version: '0.1'
